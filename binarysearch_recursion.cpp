@@ -15,7 +15,7 @@ bool binarysearch(int arr[],int s,int e,int key)
     print(arr,s,e);
     if(s>e)
     {
-        return false;
+        return 0;
     }
     
     
